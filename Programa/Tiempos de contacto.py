@@ -1,7 +1,7 @@
 import numpy as np
 import math
 import statistics
-
+ 
 
 print("Tener un txt con las coordenadas ecuatoriales del Sol y la Luna en el siguiente formato por columnas:")
 print("Hora GHAs_grados GHAs_minutos Decs_grado DecS_minutos GHAm_grado GHAm_minutos DecM_grado DecM_minutos SS PS SM PM ")
